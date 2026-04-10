@@ -1,4 +1,4 @@
-# Teaching Portfolio and Curriculum Development Archive
+# Teaching Portfolio Archive
 
 This repository documents selected teaching materials, curriculum development work, course redesign efforts, and instructional innovations from courses I have taught.
 
