@@ -3,9 +3,9 @@
 
 ## Course Development Background
 
-This course was substantially redesigned and redeveloped for Fall 2025 at the request of the Program Director.
+This course was substantially redesigned and redeveloped for Fall 2025 **at the request of the Program Director**.
 
-At the time of preparation, no prior instructional materials from previous offerings of MGS 3101 were available for reuse. Existing syllabi from Kean University and Wenzhou-Kean University provided only limited guidance regarding scope and topic coverage. As a result, the course was developed substantially from the ground up.
+At the time of preparation, no prior instructional materials from previous offerings of MGS 3101 were available for reuse. Existing syllabi from Kean University and Wenzhou-Kean University provided only limited guidance regarding scope and topic coverage. As a result, **the course was developed substantially from the ground up**.
 
 ---
 
