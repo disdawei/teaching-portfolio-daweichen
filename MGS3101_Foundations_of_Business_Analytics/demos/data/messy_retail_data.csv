@@ -1,0 +1,124 @@
+customer_id,purchase_date,channel,age,basket_value,quantity,email,city,note
+1043,2024-09-23,Mobile ,50,20.730943771250146,3 pcs,user9598@mail.test,wenzhou,★ loyal ★
+1056,2024-09-08,Mobile ,30,,,user1357@example.com,WZ,promo#2024
+1050,2024/09/28,WEB,16,35.78059592617821,6,user8431@example.com,Wenzhou,
+1015,2024/09/28,WEB,18,60.76571864990895,2, USER5218@EXAMPLE.COM ,, VIP 
+1016,NaT,,23,¥7.71,6,user4995@example.com,Shaoxing,  
+1001,09-05-2024,,34,,6,user2535@EXAMPLE.com,Wenzhou,RETURNS??
+1056,2024-09-04,Mobile ,17,$21.21,,user1647@EXAMPLE.com,Wenzhou,  
+1047,09-11-2024,,65,42.880269245920424,3,user5064@mail.test, HZ ,
+1054,2024-09-13,,55,47.559830897627016,6,user4895@ gmail.com, HZ ,RETURNS??
+1031,2024/09/03,Mobile ,36,37.1510112161925,2,user9811@EXAMPLE.com,Wenzhou,★ loyal ★
+1060,2024-09-07,store,70,22.41391099661471,1,user9243@ gmail.com,Shaoxing,
+1032,09-27-2024,Mobile ,28,23.519954589444623,6,user8151@ gmail.com,WZ,promo#2024
+1037,2024-09-21,mobile,67,62.565129733351164,4,user7511@EXAMPLE.com,wenzhou,
+1011,2024-09-15,Mobile ,61,78.49803879131842,3,user3325@EXAMPLE.com,Shaoxing,coupon-10%
+1037,"Sept 12, 2024",WEB,45,7.174605600236897,,user2106@ gmail.com,WZ,
+1019,2024-09-12,,52,15.057158612075913,4,user3862@ gmail.com, HZ ,学生优惠 
+1048,2024-09-05,,52,¥91.6,3,user2050@mail.test,Sx,
+1034,2024-09-13,Store,68,144.2672832621603,3,user6389@EXAMPLE.com,Sx,★ loyal ★
+1043,09-07-2024,Mobile ,-1,19.38468244248223,3,user9820@mail.test, HZ ,new-user
+1014,2024/09/21,,28,$26.41,1,user1159@ gmail.com,Shaoxing,promo#2024
+1058,2024/09/21,,63,"1,155",4,user1095@ gmail.com,WZ,new-user
+1060,09-18-2024,Web  ,150,6.794490922586812,2,user6644@example.com,Hangzhou,学生优惠 
+1004,2024-09-15,Web  ,66,21.95333401911971,1,user5681@example.com,,coupon-10%
+1049,2024/09/08,Store,56,38.530595207187254,,user5824@EXAMPLE.com,WZ,promo#2024
+1006,"Sept 14, 2024",Store,44,24.918836057846917,6,user6288@ gmail.com,WZ, VIP 
+1009,2024-09-13,Mobile ,61,¥90.69,2,user3282@EXAMPLE.com,,  
+1029,"Sept 24, 2024",WEB,74,18.478542542736765,6,user8777@ gmail.com,Hangzhou, VIP 
+1014,2024/09/07,,23,12.067216814279028,7,user6630@example.com,WZ,学生优惠 
+1018,2024-09-09,,34,9.405287456590457,1,user4974@mail.test,Wenzhou,
+1029,"Sept 24, 2024",WEB,74,18.478542542736765,6,user8777@ gmail.com,Hangzhou, VIP 
+1007,2024/09/10,Web  ,34,34.48758457733396,3 pcs,user2395@ gmail.com,Hangzhou,coupon-10%
+1006,09-26-2024,Store,71,5.426015331894508,6,user3035@mail.test,,学生优惠 
+1044,09-26-2024,Store,60,2.939294763376052,1,user5918@ gmail.com,Wenzhou,★ loyal ★
+1017,2024/09/27,Mobile ,52,67.28420269105558,6,user2374@example.com,Sx,学生优惠 
+1032,09-03-2024,,35,8.365295731221229,3 pcs,user8414@mail.test,Sx,★ loyal ★
+1057,09-04-2024,,48,91.83218226042013,7,user2004@EXAMPLE.com,wenzhou,promo#2024
+1010,2024/09/14,Mobile ,65,10.243136022119812,4,user9439@mail.test,wenzhou,学生优惠 
+1054,2024-09-13,Store,68,37.268931203474914,4,user5904@mail.test,Wenzhou,promo#2024
+1019,2024-09-05,WEB,44,648,2,user1788@ gmail.com,Wenzhou,RETURNS??
+1025,2024-09-19,WEB,65,36.2962879396856,5,,Sx,★ loyal ★
+1009,2024/09/21,WEB,19,37.36831133758631,2, USER8884@EXAMPLE.COM ,Wenzhou,RETURNS??
+1010,NaT,,150,47.922141182727565,3 pcs,user7846@example.com,WZ,学生优惠 
+1051,2024-09-07,Web  ,70,6.495842361565634,7,user8293@example.com,Hangzhou,promo#2024
+1012,2024-09-25,Mobile ,16,,two,user3444@EXAMPLE.com,wenzhou,
+1013,2024-09-01,Web  ,19,37.73879593883602,7,user1053@EXAMPLE.com, HZ ,★ loyal ★
+1002,"Sept 16, 2024",Mobile ,55,5.5454850159423295,7,user1510@EXAMPLE.com,wenzhou,★ loyal ★
+1020,2024-09-04,Store,53,10.355116129622408,4,user8704@ gmail.com,Sx, VIP 
+1007,2024-09-14,WEB,64,2740,6,user2659@example.com,,学生优惠 
+1018,2024-09-27,,36,68.56802731484544,4,user8182@example.com,Sx,学生优惠 
+1023,"Sept 19, 2024",Store,45,81.9650051880254,6,user2442@example.com,,  
+1028,"Sept 10, 2024",mobile,39,8.815938417118332,4,user7461@EXAMPLE.com,Shaoxing,promo#2024
+1041,"Sept 24, 2024",WEB,71,47.24373999363908,4,user6001@example.com,wenzhou,学生优惠 
+1029,"Sept 20, 2024",Mobile ,72,34.542019919445096,7,user9429@mail.test,Wenzhou,学生优惠 
+1005,2024/09/19,mobile,73,65.03918020556667,3,user5875@EXAMPLE.com,wenzhou,new-user
+1027,2024/09/19,mobile,46,34.22730203331891,5,user1811@example.com,,★ loyal ★
+1012,2024/09/20,Store,18,13.033435846491962,1,user9820@example.com,,
+1052,2024-09-03,mobile,20,3.6687081583803454,3 pcs,user4988@example.com,wenzhou, VIP 
+1042,2024-09-06,,38,29.36136447573739,1,user6431@ gmail.com, HZ ,  
+1008,2024-09-17,WEB,66,83.29652645381556,two,user3649@EXAMPLE.com,Wenzhou, VIP 
+1024,09-20-2024,,60,414,5,user5156@example.com,Wenzhou,
+1013,09-05-2024,Web  ,75,86.31373565892045,1,user9989@mail.test,Hangzhou,promo#2024
+1053,2024-09-03,Web  ,74,70.81957366247568,3,user6746@mail.test,,promo#2024
+1040,2024/09/23,,,53.1343050826726,3,user2168@EXAMPLE.com,Hangzhou,promo#2024
+1036,2024/09/13,WEB,68,202,,user2903@ gmail.com,wenzhou,
+1030,09-08-2024,Mobile ,82,7.577344497910242,5,user9709@EXAMPLE.com,Sx,coupon-10%
+1002,2024/09/13,WEB,62,14.049935081386895,7,user5983@example.com,Hangzhou,
+1022,2024-09-23,Mobile ,31,68.67013507679741,5,user4268@EXAMPLE.com,Shaoxing,  
+1047,09-14-2024,Mobile ,twenty,36.09949817880167,3,user1562@EXAMPLE.com,Shaoxing,promo#2024
+1021,"Sept 5, 2024",Web  ,52,62.01212686492238,1,user3523@ gmail.com, HZ ,new-user
+1035,2024/09/13,Store,19,17.930811401441513,5,user3337@mail.test,Sx,
+1025,2024/09/08,,75,180,3,user5152@mail.test,Hangzhou,
+1017,2024-09-16,WEB,49,37.264647252983764,3,user3010@example.com,Sx,★ loyal ★
+1022,2024/09/18,,71,25.209641313623592,1,user8238@mail.test,wenzhou,学生优惠 
+1048,2024/09/23,,15,31.616628235170804,6,user7300@EXAMPLE.com,Shaoxing,coupon-10%
+1026,"Sept 8, 2024",Mobile ,26,126,1,user8807@ gmail.com,Sx,promo#2024
+1045,2024-09-18,,32,-75.87151825445203,3,user3318@mail.test,WZ,  
+1057,2024-09-03,Mobile ,twenty,,1,user5014@ gmail.com,WZ,
+1011,2024-09-02,,23,22.723806230085838,6,user3244@ gmail.com,,coupon-10%
+1041,2024/09/15,Store,63,79.95958684400632,1,user6153@example.com,Hangzhou,promo#2024
+1024,09-17-2024,store,54,,4,user5143@mail.test,,coupon-10%
+1031,2024-09-20,mobile,14,¥52.12,7,user7039@mail.test,Wenzhou,★ loyal ★
+1039,NaT,Web  ,46,26.05096133678877,3,user6759@ gmail.com, HZ ,学生优惠 
+1003,09-14-2024,Mobile ,60,55.60526915987661,1, USER5817@ GMAIL.COM ,wenzhou,RETURNS??
+1028,2024/09/04,Mobile ,83,72.68015029950753,7,user1204@EXAMPLE.com, HZ ,RETURNS??
+1049,2024/09/09,Mobile ,40,,5,user4861@ gmail.com,wenzhou, VIP 
+1046,2024/09/15,store,,48.97355215454178,5,user4961@example.com,WZ,new-user
+1008,2024-09-18,,37,,6,user7342@EXAMPLE.com,Shaoxing,学生优惠 
+1023,09-22-2024,Mobile ,54,87.40936164137062,4, USER4925@MAIL.TEST ,Shaoxing,学生优惠 
+1051,2024-09-13,Store,44,47.8283824733992,1,user4560@mail.test, HZ ,学生优惠 
+1020,2024-09-01,,79,15.422243298233244,1,user2574@ gmail.com,Hangzhou,promo#2024
+1034,2024/09/15,,62,35.667339164440804,3,,Sx,RETURNS??
+1040,2024/09/10,mobile,76,8.671681552014492,two,, HZ ,  
+1033,"Sept 1, 2024",Mobile ,70,102.57147362714205,5,user1804@example.com,Shaoxing,  
+1005,2024/09/17,WEB,42,64.92358390943927,7,user6729@example.com,, VIP 
+1045,09-03-2024,,32,80.0228921338005,7,user8192@mail.test,Hangzhou,★ loyal ★
+1042,2024/09/04,,28,598,6,user8794@example.com,WZ, VIP 
+1038,"Sept 14, 2024",WEB,22,,1,user6290@ gmail.com,Shaoxing,学生优惠 
+1015,2024-09-19,,48,2640,3,user4454@EXAMPLE.com,Hangzhou,★ loyal ★
+1058,2024-09-14,store,82,46.134161015206786,2,user3300@ gmail.com,Hangzhou,promo#2024
+1021,2024-09-14,,73,37.901110414659136,1,user4478@EXAMPLE.com,Hangzhou,coupon-10%
+1027,2024-09-24,,22,60.1365328300945,1,user8212@example.com,Shaoxing,RETURNS??
+1055,09-07-2024,WEB,,-30.43367547761865,5,user6485@ gmail.com,Shaoxing,学生优惠 
+1059,09-16-2024,Store,56,¥34.84,5,user7140@mail.test,,new-user
+1003,2024/09/27,Store,,41.527368516371475,1,user4296@EXAMPLE.com,,RETURNS??
+1035,"Sept 21, 2024",Store,84,11.588510830617047,6,user5690@example.com,Shaoxing,new-user
+1052,2024/09/15,Mobile ,16,14.479658011830352,7,user9635@ gmail.com, HZ ,
+1038,09-13-2024,Mobile ,20,40.8297391372986,1,user5671@ gmail.com,Shaoxing,new-user
+1030,2024-09-16,WEB,49,18.690452112926536,5,user3224@EXAMPLE.com,Wenzhou,coupon-10%
+1004,2024-09-01,Mobile ,80,14.058365262837135,6,user4787@EXAMPLE.com, HZ ,RETURNS??
+1039,2024/09/03,,63,,6,user6532@ gmail.com, HZ ,  
+1007,2024-09-14,WEB,64,2740,6,user2659@example.com,,学生优惠 
+1044,2024-09-23,,50,109.55270755871356,7,,wenzhou,new-user
+1052,2024/09/15,Mobile ,16,14.479658011830352,7,user9635@ gmail.com, HZ ,
+1001,"Sept 9, 2024",Mobile ,63,19.401888531927156,2,user6307@example.com,Hangzhou,★ loyal ★
+1033,2024/09/03,Store,-1,7.647722605320714,,user4431@mail.test,Hangzhou,  
+1059,2024/09/19,Mobile ,40,15.309562625776179,5,,Hangzhou,promo#2024
+1046,2024-09-11,WEB,twenty,41.42971168167218,5,user1486@example.com,Sx,  
+1026,2024-09-07,Store,,35.335499926413505,6,user9500@example.com,Hangzhou, VIP 
+1050,2024-09-25,WEB,60,32.22758965124074,5,user8634@EXAMPLE.com,Wenzhou,学生优惠 
+1016,09-26-2024,WEB,54,$28.09,, USER7823@EXAMPLE.COM , HZ ,coupon-10%
+1055,2024-09-26,Store,41,27.45383823336462,2,user9569@EXAMPLE.com,Hangzhou,★ loyal ★
+1053,09-16-2024,mobile,25,,1,user7963@example.com, HZ ,coupon-10%
+1036,"Sept 19, 2024",WEB,37,360,5,,Shaoxing,new-user
