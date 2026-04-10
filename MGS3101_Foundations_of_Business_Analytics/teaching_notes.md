@@ -35,7 +35,7 @@ The course was designed to:
   - MGS 3701 – Data Mining in Business
   - MGS 4701 – Integrative Applications of Business Analytics
 
-Accordingly, MGS 3101 was structured as a transitional bridge course connecting foundational quantitative/programming preparation with more advanced analytical and technical BA coursework. :contentReference[oaicite:0]{index=0}
+Accordingly, MGS 3101 was structured as a transitional bridge course connecting foundational quantitative/programming preparation with more advanced analytical and technical BA coursework.
 
 ---
 
