@@ -1,0 +1,21 @@
+review_id,customer_name,rating,comment,date
+1,Alice Zhang,5,Fast delivery and great quality!,2026-03-20
+2,Ben Li,2,Package arrived late and the box was damaged.,2026-03-21
+3,Cathy Wu,4,Good value for money,2026-03-22
+4,David Chen,3,okay product but customer service was slow,2026-03-23
+5,Eva Sun,,,2026-03-24
+6,Frank Gao,1,Terrible experience... will not buy again,2026-03-24
+7,Grace Hu,5,LOVE IT!!! easy to use and very helpful,2026-03-25
+8,Henry Xu,4,"Works well, but setup took a while.",2026-03-25
+9,Ivy Qian,2,not worth the price,2026-03-26
+10,Jason Ma,3,Average. Nothing special.,2026-03-26
+11,Kelly Zhou,5,Customer support solved my issue quickly,2026-03-27
+12,Leo Tang,two,Confusing instructions and poor design,2026-03-27
+13,Mia He,4,Pretty good overall; would recommend.,2026-03-28
+14,Noah Peng,1,,2026-03-28
+15,Olivia Fang,5,fast delivery and great quality!,2026-03-29
+16,Peter Lin,2,Returned it after one day.,2026-03-29
+17,Queenie Ye,4,The product is useful for my daily work,2026-03-30
+18,Ryan Luo,3,"delivery was okay, packaging was okay",2026-03-30
+19,Sophia Jin,,I have mixed feelings about this purchase.,2026-03-30
+20,Tony Yao,5,"Excellent quality, excellent service",2026-03-30
